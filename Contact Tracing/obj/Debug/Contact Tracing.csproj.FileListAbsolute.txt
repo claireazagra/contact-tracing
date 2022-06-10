@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe.config
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.exe
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\bin\Debug\Contact Tracing.pdb
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.Properties.Resources.resources
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.exe
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact Tracing.pdb
+C:\Users\dell\source\repos\Contact Tracing\Contact Tracing\obj\Debug\Contact_Tracing.IdentityForm.resources
